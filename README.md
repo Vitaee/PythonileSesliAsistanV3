@@ -5,13 +5,11 @@
 
 <code>
 cd Desktop</code>
-
-
+<p></p>
 <code>
 mkdir Jarvis
 </code>
-
-
+<p></p>
 <code>
 cd Jarvis
 </code>
