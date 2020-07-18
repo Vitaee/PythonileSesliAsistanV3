@@ -1,0 +1,14 @@
+PyQt5
+win10toast
+googletrans
+google-search
+bs4
+selenium
+youtube-search
+pyttsx3
+cv2
+pyautogui
+wikipedia
+psutil
+PyAudio
+SpeechRecognition
