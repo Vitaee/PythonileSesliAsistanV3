@@ -46,6 +46,5 @@ py main.py
 <p></p>
 
 **Verilerinizi kayıt ettikten sonra o pencreyi kapatıp Run butonuna tıklayın.**
-<p></p>
 ![alt text](https://i.hizliresim.com/KZS28Y.png)
 
