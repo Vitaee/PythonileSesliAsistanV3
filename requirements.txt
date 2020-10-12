@@ -6,7 +6,7 @@ bs4
 selenium
 youtube-search
 pyttsx3
-cv2
+opencv-python
 pyautogui
 wikipedia
 psutil
